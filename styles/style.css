@@ -37,7 +37,7 @@
     min-height: 100vh;
     justify-content: center;
     align-items: center;
-    background: url('/images/bg.jpg') no-repeat;
+    background: url('../images/bg.jpg') no-repeat;
     background-position: center center;
     background-size: cover;
   }
@@ -258,7 +258,7 @@
   }
   
   .testimonials {
-    background: url(/images/bg2.jpg);
+    background: url('../images/bg2.jpg');
     background-size: cover;
   }
   
@@ -320,7 +320,7 @@
   
   /*Contact-area*/
   .contact{
-    background: url(/images/bg3.jpg);
+    background: url('../images/bg3.jpg');
     color:#fff;
     background-size: cover;
   }
